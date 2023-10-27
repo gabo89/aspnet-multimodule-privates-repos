@@ -1,0 +1,1 @@
+# aspnet-multimodule-privates-repos
