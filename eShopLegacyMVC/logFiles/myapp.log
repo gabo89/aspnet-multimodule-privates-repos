@@ -1,0 +1,24 @@
+2023-10-27 13:17:55,032 [6] (null) DEBUG eShopLegacyMVC.MvcApplication - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+WebApplication_BeginRequest
+
+2023-10-27 13:17:55,365 [6] (null) INFO eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+Now loading... /Catalog/Index?pageSize=10&pageIndex=0
+
+2023-10-27 13:17:56,236 [6] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+Now disposing
+
+2023-10-27 13:17:56,330 [6] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+Now disposing
+
+2023-10-27 14:12:04,761 [8] (null) DEBUG eShopLegacyMVC.MvcApplication - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+WebApplication_BeginRequest
+
+2023-10-27 14:12:05,100 [8] (null) INFO eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+Now loading... /Catalog/Index?pageSize=10&pageIndex=0
+
+2023-10-27 14:12:05,824 [8] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+Now disposing
+
+2023-10-27 14:12:05,967 [8] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+Now disposing
+
