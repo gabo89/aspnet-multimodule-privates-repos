@@ -5,7 +5,6 @@ using Microsoft.Owin.Security;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
-using mydependency;
 
 namespace eShopLegacyMVC.Controllers
 {
@@ -66,8 +65,6 @@ namespace eShopLegacyMVC.Controllers
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> Login(LoginViewModel model, string returnUrl)
         {
-
-            mydependency.Class1 demo;
       
             if (!ModelState.IsValid)
             {
